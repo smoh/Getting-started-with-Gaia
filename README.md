@@ -1,6 +1,7 @@
 # Getting-started-with-Gaia
 Bookmarks to resources about Gaia+
 
+- [Gaia Home](https://www.cosmos.esa.int/web/gaia/home)
 - [Gaia Archive](https://gea.esac.esa.int/archive/)
 - Datamodel: [DR1](https://gea.esac.esa.int/archive/documentation/GDR1/datamodel/index.html) [DR2](https://gea.esac.esa.int/archive/documentation/GDR2/Gaia_archive/chap_datamodel/)
 
