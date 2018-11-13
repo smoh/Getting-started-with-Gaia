@@ -39,14 +39,15 @@ Bookmarks to resources about Gaia+
 
 ## Dynamics
 
-- galpy
-- gala
+- [amuse](http://www.amusecode.org): Astrophysical Multipurpose Software Environment. [repo](https://github.com/amusecode/amuse)
+- [gala](http://gala.adrian.pw/en/latest/): Galactic and gravitational dynamics in Python. [repo](https://github.com/adrn/gala)
+- [galpy](https://galpy.readthedocs.io/en/v1.4.0/): Galactic Dynamics in python. [repo](https://github.com/jobovy/galpy)
 
 ## Stellar libraries/isochrones
 
-- ezpadova
-- ezmist
-- isochrones
+
+- Morgan Fouesneu has written small python clients to get isochrone models easily from their websites: [ezmist](https://github.com/mfouesneau/ezmist) | [ezpadova](https://github.com/mfouesneau/ezpadova) | [ezdart](https://github.com/mfouesneau/ezdart)
+- [isochrones](https://github.com/timothydmorton/isochrones) provides common interface to isochrone models. Under active development and documentation incomplete at the moment.
 
 
 ## Other surveys
