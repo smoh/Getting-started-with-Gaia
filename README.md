@@ -28,6 +28,7 @@ Bookmarks to resources about Gaia+
 
 - Gaia archive already provides cross-match lookup tables for many surveys as well as the original catalogs of each survey, so one can just `JOIN` on appropriate ID columns.
 - Note that some external tables are under `gaiadr1` schema while some under `gaiadr2`.
+- [Gaia DR2 + Kepler/K2 cross-matches](http://gaia-kepler.fun) by Megan Bedell [repo](https://github.com/megbedell/gaia-kepler.fun)
 
 
 ## Data manipulation tools
