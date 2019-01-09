@@ -10,6 +10,12 @@ FROM gaiadr1.gaia_source
 WHERE MOD(random_index, 1000000) = 0
 ```
 
+- When cross-matching by position, do
+
+```sql
+1 = CONTAINS(POINT(smaller_catalog), CIRCLE(larger_catalog))
+```
+
 
 ## Functions
 - SIN(x), COS(x), TAN(x): all in radians
