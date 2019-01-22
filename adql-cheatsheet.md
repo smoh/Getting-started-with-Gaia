@@ -16,8 +16,8 @@ WHERE MOD(random_index, 1000000) = 0
 1 = CONTAINS(POINT(smaller_catalog), CIRCLE(larger_catalog))
 ```
 
-
 ## Functions
+
 - SIN(x), COS(x), TAN(x): all in radians
 - ASIN(x), ACOS(x), ATAN(x)
 - ATAN2(x, y): arctan(y/x) -> [-pi, +pi]
@@ -65,6 +65,7 @@ All angle in degrees.
 - Put column values to compare in single quotes ('').
 - Arithmetic operations are for columns. For operations between rows, use aggregate functions.
 - comments:
+
 ```SQL
 -- single line
 /* multiple
