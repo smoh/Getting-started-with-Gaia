@@ -16,7 +16,7 @@ Bookmarks to resources about Gaia+
 - [An ADQL cookbook to accompany Gaia DR1](https://www.gaia.ac.uk/data/gaia-data-release-1/adql-cookbook)
 - [ADQL cheatsheet](adql-cheatsheet.md)
 - [A collection of snippets](gaia-adql-snippets.md)
-- [Cross-matching to Gaia DR2](Cross-matching to Gaia DR2.ipynb)
+- [Cross-matching to Gaia DR2](Cross-matching-to-Gaia-DR2.ipynb)
 
 ### TAP Clients
 
